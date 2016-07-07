@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Hello 2016"
+subtitle:   " \"Hello , My GitHub Blog\""
+date:       2016-06-07 12:00:00
+author:     "Cifer"
+header-img: "img/home-bg.jpg"
+catalog: true
+tags:
+    - 测试
+---
+
+> 这是啥
+
+
+## 前言
+
+这是前言思密达
+
+
+<p id = "build"></p>
+---
+
+## 正文
+
+这是正文思密达
+
+—— Hux 后记于 2015.10
+
+
+正常情况下下面应该是评论区
