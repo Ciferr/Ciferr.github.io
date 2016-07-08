@@ -2,7 +2,7 @@
 layout:     post
 title:      "First Blog"
 subtitle:   " \"博客安家史\""
-date:       2016-07-08 23:55:00
+date:       2016-07-09 00:00:00
 author:     "Cifer"
 header-img: "img/home-bg.jpg"
 catalog: true
